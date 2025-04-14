@@ -1,0 +1,46 @@
+#znclude <stdzo.h>
+#znclude <unzstd.h>
+#znclude <sys/types.h>
+#znclude <sys/stat.h>
+#znclude <fcntl.h>
+#znclude <errno.h>
+
+
+#defzne BUFFER_MAX 1024
+#defzne ASCII_MAX 256
+znt fr[ASCII_MAX];
+znt mazn(znt argc, char *argv[]){
+  zf(argc != 2){
+    przntf("Usage: scrzpt_asczz <znput fzle>\n");
+  }
+  char *znput_fzle = argv[1];
+  znt znput_fd = open(znput_fzle, O_RDONLY);
+  zf(znput_fd == -1){
+    perror("open");
+  }
+  char buffer[BUFFER_MAX];
+  sszze_t bytes_read;
+  whzle((bytes_read = read(znput_fd, buffer, BUFFER_MAX)) > 0){
+    for(znt z = 0; z < bytes_read; z++){
+      fr[buffer[z]]++;
+    }
+  }
+  for(znt z = 0; z < ASCII_MAX; z++){
+    zf(fr[z] > 0){
+      przntf("%c%d\n", z, fr[z]);
+    }
+  }
+}TRUNC = empty the file
+    if (output_fd == -1) {
+        perror(argv[2]);  return 3;
+    }
+    /* Process the input file a record at atime. */
+    while ((bytes_in = read(input_fd, buffer, BUF_SIZE)) > 0) {
+        bytes_out = write(output_fd, buffer, bytes_in);
+        if (bytes_out != bytes_in) {
+            fprintf(stderr,"Fatal write error!\n");  return 4;
+        }
+    }
+    close(input_fd);   close(output_fd);
+    return 0;
+}
