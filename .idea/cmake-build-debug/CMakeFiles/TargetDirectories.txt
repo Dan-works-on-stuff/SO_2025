@@ -1,0 +1,3 @@
+/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles/_idea.dir
+/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script.c.o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.o -o _idea
