@@ -81,12 +81,12 @@ clean: CMakeFiles/_idea.dir/clean
 CMakeFiles/_idea.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target _idea"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target _idea"
 .PHONY : CMakeFiles/_idea.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_idea.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/_idea.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/_idea.dir/rule

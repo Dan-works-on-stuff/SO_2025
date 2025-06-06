@@ -129,53 +129,221 @@ _idea/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/build
 .PHONY : _idea/fast
 
-home/maxcox/Documents/GitHub/SO_2025/examen/script.o: home/maxcox/Documents/GitHub/SO_2025/examen/script.c.o
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script.o
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.o: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.o
 
 # target to build an object file
-home/maxcox/Documents/GitHub/SO_2025/examen/script.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script.c.o
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script.c.o
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.o
 
-home/maxcox/Documents/GitHub/SO_2025/examen/script.i: home/maxcox/Documents/GitHub/SO_2025/examen/script.c.i
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script.i
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.i: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.i
 
 # target to preprocess a source file
-home/maxcox/Documents/GitHub/SO_2025/examen/script.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script.c.i
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script.c.i
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.i
 
-home/maxcox/Documents/GitHub/SO_2025/examen/script.s: home/maxcox/Documents/GitHub/SO_2025/examen/script.c.s
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script.s
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.s: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.s
 
 # target to generate assembly for a file
-home/maxcox/Documents/GitHub/SO_2025/examen/script.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script.c.s
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script.c.s
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.s
 
-home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.o: home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.o
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.o
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.o: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.o
 
 # target to build an object file
-home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.o
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.o
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.o
 
-home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.i: home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.i
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.i
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.i: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.i
 
 # target to preprocess a source file
-home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.i
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.i
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.i
 
-home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.s: home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.s
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.s
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.s: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.s
 
 # target to generate assembly for a file
-home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.s
-.PHONY : home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.s
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.o: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.i: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.s: home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.o: home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.i: home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.s: home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.o: home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.i: home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.s: home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o: home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.i: home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.s: home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.o: home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.i: home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.s: home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.o: home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.i: home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.s: home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.o: home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.i: home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.s: home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.s
 
 # Help Target
 help:
@@ -186,12 +354,33 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... _idea"
-	@echo "... home/maxcox/Documents/GitHub/SO_2025/examen/script.o"
-	@echo "... home/maxcox/Documents/GitHub/SO_2025/examen/script.i"
-	@echo "... home/maxcox/Documents/GitHub/SO_2025/examen/script.s"
-	@echo "... home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.o"
-	@echo "... home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.i"
-	@echo "... home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.s"
 .PHONY : help
 
 

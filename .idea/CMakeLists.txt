@@ -8,14 +8,14 @@ add_executable(_idea
     modules.xml
     SO_2025.iml
     vcs.xml
-        ../examen/script.c
-        ../examen/script_prototype.c
-        ../lab11/cut.c
-        ../Lab8/signal_processing.c
+#        ../Lab8/signal_processing.c
         ../lab11/signal_proc2.c
-        ../lab10.c++
+#        ../lab10.c++
         ../Lab10/mmap1.c
         ../Lab10/mmap2.c
         ../Lab10/mmap4.c
         ../Lab10/myTr.c
-        ../Lab10/myHead.c)
+        ../Lab10/myHead.c
+        ../lab11/fork_ex.c
+        ../lab11/wait_ex1.c
+        ../lab11/tree_of_proceses.c)

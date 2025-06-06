@@ -8,8 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/maxcox/Documents/GitHub/SO_2025/examen/script.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script.c.o.d"
-  "/home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/examen/script_prototype.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap1.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap2.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/mmap4.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myHead.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/tree_of_proceses.c.o.d"
+  "/home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.o" "gcc" "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/wait_ex1.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
