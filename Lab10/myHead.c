@@ -13,78 +13,97 @@
 #include <errno.h>
 
 #define handle_error(msg) \
-{ perror(msg); exit(EXIT_FAILURE); }
+    { perror(msg); exit(EXIT_FAILURE); }
+
+void print_first_n_lines(const char *map, size_t length, int n);
+void print_first_n_chars(const char *map, size_t length, int n);
+int count_lines(const char *map, size_t length);
+void process_file(const char *filename, const char *option, int limit);
+void default_head(const char *filename);
+
+void print_first_n_lines(const char *map, size_t length, int n) {
+    int printed = 0;
+    for (size_t i = 0; i < length; i++) {
+        putchar(map[i]);
+        if (map[i] == '\n' && ++printed >= n) break;
+    }
+}
+
+void print_first_n_chars(const char *map, size_t length, int n) {
+    for (int i = 0; i < n && i < (int)length; i++) {
+        putchar(map[i]);
+    }
+}
+
+int count_lines(const char *map, size_t length) {
+    int total = 0;
+    for (size_t i = 0; i < length; i++) {
+        if (map[i] == '\n')
+            total++;
+    }
+    return total;
+}
+
+void process_file(const char *filename, const char *option, int limit) {
+    int fd = open(filename, O_RDONLY);
+    if (fd == -1) handle_error("Error opening input file");
+
+    struct stat sb;
+    if (fstat(fd, &sb) == -1) handle_error("Error getting input file size");
+
+    size_t length = sb.st_size;
+    if (length == 0) { close(fd); return; } // empty file
+
+    char *map = mmap(NULL, length, PROT_READ, MAP_PRIVATE, fd, 0);
+    if (map == MAP_FAILED) handle_error("Error mapping input file");
+
+    if (strcmp(option, "-n") == 0) {
+        int total_lines = count_lines(map, length);
+        int effective = (limit >= 0) ? limit : total_lines + limit;
+        if (effective < 0) effective = 0;
+        print_first_n_lines(map, length, effective);
+    } else if (strcmp(option, "-c") == 0) {
+        int effective = (limit >= 0) ? limit : (int)length + limit;
+        if (effective < 0) effective = 0;
+        print_first_n_chars(map, length, effective);
+    } else {
+        fprintf(stderr, "Invalid option %s\n", option);
+    }
+
+    munmap(map, length);
+    close(fd);
+}
+
+void default_head(const char *filename) {
+    int fd = open(filename, O_RDONLY);
+    if (fd == -1) handle_error("Error opening input file");
+
+    struct stat sb;
+    if (fstat(fd, &sb) == -1) handle_error("Error getting input file size");
+
+    size_t length = sb.st_size;
+    if (length == 0) { close(fd); return; }
+
+    char *map = mmap(NULL, length, PROT_READ, MAP_PRIVATE, fd, 0);
+    if (map == MAP_FAILED) handle_error("Error mapping input file");
+
+    print_first_n_lines(map, length, 10);
+
+    munmap(map, length);
+    close(fd);
+}
 
 int main(int argc, char *argv[]) {
-    if (!(argc == 2 || argc == 4)) {
-        handle_error("Usage: ./myHead [option] [nr] input_file");
-    }
-    if (argc != 2 && argc != 4) {
-        handle_error("Usage: ./myHead [-n|-c] <nr> <input_file>");
-    }
-
-    int fd_in;
-    struct stat sb;
-    char *map_in;
-    size_t length;
-    int nr_lines = 10; // default
-
     if (argc == 2) {
-        // Open the file from argv[1]
-        fd_in = open(argv[1], O_RDONLY);
-    } else {
-        // Check option from argv[1], parse nr from argv[2], open file from argv[3]
-        if (strcmp(argv[1], "-n") != 0 && strcmp(argv[1], "-c") != 0) {
-            handle_error("Invalid arguments. Use -n <lines> or -c <chars>.");
-        }
-        fd_in = open(argv[3], O_RDONLY);
-    }
-    if (fd_in == -1) {
-        handle_error("Error opening input file");
-    }
-    if (fstat(fd_in, &sb) == -1) {
-        handle_error("Error getting input file size");
-    }
-    length = sb.st_size;
-    map_in = mmap(NULL, length, PROT_READ, MAP_PRIVATE, fd_in, 0);
-    if (map_in == MAP_FAILED) {
-        handle_error("Error mapping input file");
-    }
-
-    if (argc == 2) {
-        // Default head: first 10 lines
-        int printed = 0;
-        for (size_t i = 0; i < length; i++) {
-            putchar(map_in[i]);
-            if (map_in[i] == '\n' && ++printed >= nr_lines) break;
-        }
-    } else {
+        default_head(argv[1]);
+    } else if (argc == 4) {
+        const char *option = argv[1];
         int limit = atoi(argv[2]);
-        if (strcmp(argv[1], "-n") == 0) {
-            int total_lines = 0;
-            for (size_t i = 0; i < length; i++) {
-                if (map_in[i] == '\n')
-                    total_lines++;
-            }
-            int effective = (limit >= 0) ? limit : total_lines + limit;
-            if (effective < 0) effective = 0;
-            int printed = 0;
-            for (size_t i = 0; i < length; i++) {
-                putchar(map_in[i]);
-                if (map_in[i] == '\n') {
-                    printed++;
-                    if (printed >= effective) break;
-                }
-            }
-        } else if (strcmp(argv[1], "-c") == 0) {
-            int effective = (limit >= 0) ? limit : (int)length + limit;
-            if (effective < 0) effective = 0;
-            for (int i = 0; i < effective && i < (int)length; i++) {
-                putchar(map_in[i]);
-            }
-        }
+        process_file(argv[3], option, limit);
+    } else {
+        fprintf(stderr, "Usage: %s [-n|-c] <nr> <input_file>\n", argv[0]);
+        fprintf(stderr, "   or: %s <input_file>\n", argv[0]);
+        exit(EXIT_FAILURE);
     }
-    munmap(map_in, length);
-    close(fd_in);
     return 0;
 }
