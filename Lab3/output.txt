@@ -1,2 +1,0 @@
-maxcox:bash:script.sh:7660:pts/2
-maxcox:grep:bash:7669:pts/2

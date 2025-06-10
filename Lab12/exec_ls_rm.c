@@ -46,9 +46,13 @@ int main(int argc, char *argv[]) {
         case -1: perror("Eroare la primul fork");
         exit(1);
 
-        case 0: execv("rm", "ls", "-l", nume_dir, NULL);
-        perror("Eroare la primul exec");
-        exit(10);
+        case 0:
+        {
+            char *args_for_rm[] = {"rm", "-r", "-i", nume_dir, NULL};
+            execv("/bin/rm", args_for_rm); //execvp("rm", args_for_rm);
+            // If execv returns, an error occurred.
+            perror("Eroare la al doilea exec (rm)"); // Updated error message for rm
+        }
 
         default: wait(&status);
         if (WIFEXITED(status))
