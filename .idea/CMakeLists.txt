@@ -18,4 +18,10 @@ add_executable(_idea
         ../Lab10/myHead.c
         ../lab11/fork_ex.c
         ../lab11/wait_ex1.c
-        ../lab11/tree_of_proceses.c)
+        ../lab11/tree_of_proceses.c
+        ../Lab12/before_exec.c
+        ../Lab12/after_exec.c
+        ../Lab12/exec_rec.c
+        ../Lab12/com-0.c
+        ../Lab12/redirect.c
+        ../Lab12/exec_ls_rm.c)

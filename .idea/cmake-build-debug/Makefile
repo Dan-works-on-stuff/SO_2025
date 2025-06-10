@@ -249,6 +249,150 @@ home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.s
 .PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.c.s
 
+home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.i: home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.s: home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.i: home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.s: home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.i: home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.s: home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.i: home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.s: home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.i: home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.s: home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.i: home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.s: home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.s
+
 home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o: home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o
 .PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o
 
@@ -369,6 +513,24 @@ help:
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.o"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.i"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab10/myTr.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/after_exec.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/before_exec.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.s"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.i"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.s"
