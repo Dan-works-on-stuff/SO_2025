@@ -24,4 +24,16 @@ add_executable(_idea
         ../Lab12/exec_rec.c
         ../Lab12/com-0.c
         ../Lab12/redirect.c
-        ../Lab12/exec_ls_rm.c)
+        ../Lab12/exec_ls_rm.c
+        ../Lab12/myCall_System.c
+        ../Lab13/pipe_ex1.c
+        ../Lab13/pipe_ex2.c
+        ../Lab13/mkfifo_ex.c
+        ../Lab13/fifo_retention_test.c
+        ../Lab13/pipe_commands1.c
+        ../Lab13/pipe_commands2.c
+        ../Lab13/pipe_commands3.c
+        ../TP2.c
+        ../TP2/worker1.c
+        ../TP2/worker2+3.c
+        ../TP2/worker3.c)

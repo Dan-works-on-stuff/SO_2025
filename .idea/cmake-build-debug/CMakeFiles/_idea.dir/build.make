@@ -279,6 +279,132 @@ CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.s: 
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.s
 
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o: /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o -c /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.s
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o: CMakeFiles/_idea.dir/flags.make
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o: /home/maxcox/Documents/GitHub/SO_2025/TP2.c
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o: CMakeFiles/_idea.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o -MF CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o.d -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o -c /home/maxcox/Documents/GitHub/SO_2025/TP2.c
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/maxcox/Documents/GitHub/SO_2025/TP2.c > CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.i
+
+CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/maxcox/Documents/GitHub/SO_2025/TP2.c -o CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.s
+
 # Object files for target _idea
 _idea_OBJECTS = \
 "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/lab11/signal_proc2.c.o" \
@@ -295,7 +421,16 @@ _idea_OBJECTS = \
 "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.o" \
 "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.o" \
 "CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.o" \
-"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.o"
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o" \
+"CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o"
 
 # External object files for target _idea
 _idea_EXTERNAL_OBJECTS =
@@ -315,9 +450,18 @@ _idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.
 _idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/com-0.c.o
 _idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.o
 _idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_ls_rm.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o
+_idea: CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o
 _idea: CMakeFiles/_idea.dir/build.make
 _idea: CMakeFiles/_idea.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C executable _idea"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/maxcox/Documents/GitHub/SO_2025/.idea/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking C executable _idea"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/_idea.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

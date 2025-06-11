@@ -369,6 +369,30 @@ home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.s
 .PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.c.s
 
+home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.i: home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.s: home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.c.s
+
 home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.o: home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.o
 .PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.o
 
@@ -392,6 +416,198 @@ home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.s: home/maxcox/Documents/Git
 home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.s
 .PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.o: home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.i: home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.s: home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.o: home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.i: home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.s: home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.o: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.i: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.s: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.o: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.i: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.s: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.o: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.i: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.s: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.o: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.i: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.s: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.o: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.i: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.s: home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.c.s
+
+home/maxcox/Documents/GitHub/SO_2025/TP2.o: home/maxcox/Documents/GitHub/SO_2025/TP2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/TP2.o
+
+# target to build an object file
+home/maxcox/Documents/GitHub/SO_2025/TP2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.o
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/TP2.c.o
+
+home/maxcox/Documents/GitHub/SO_2025/TP2.i: home/maxcox/Documents/GitHub/SO_2025/TP2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/TP2.i
+
+# target to preprocess a source file
+home/maxcox/Documents/GitHub/SO_2025/TP2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.i
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/TP2.c.i
+
+home/maxcox/Documents/GitHub/SO_2025/TP2.s: home/maxcox/Documents/GitHub/SO_2025/TP2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/TP2.s
+
+# target to generate assembly for a file
+home/maxcox/Documents/GitHub/SO_2025/TP2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/_idea.dir/build.make CMakeFiles/_idea.dir/home/maxcox/Documents/GitHub/SO_2025/TP2.c.s
+.PHONY : home/maxcox/Documents/GitHub/SO_2025/TP2.c.s
 
 home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o: home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.c.o
 .PHONY : home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o
@@ -528,9 +744,36 @@ help:
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.o"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.i"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/exec_rec.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/myCall_System.s"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.o"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.i"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab12/redirect.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/fifo_retention_test.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/mkfifo_ex.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands1.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands2.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_commands3.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex1.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/Lab13/pipe_ex2.s"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/TP2.o"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/TP2.i"
+	@echo "... home/maxcox/Documents/GitHub/SO_2025/TP2.s"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.o"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.i"
 	@echo "... home/maxcox/Documents/GitHub/SO_2025/lab11/fork_ex.s"
